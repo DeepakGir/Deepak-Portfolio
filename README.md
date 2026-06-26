@@ -2,7 +2,7 @@
 
 My personal portfolio website — built with React, TypeScript, and Tailwind CSS to showcase my projects, skills, and experience as a Java Developer.
 
-**🔗 Live Site:** [Add your deployed link here]
+**🔗 Live Site:** https://deepakgirportfolio.netlify.app/
 
 ![Portfolio Preview](public/opengraph.jpg)
 
