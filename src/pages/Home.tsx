@@ -157,7 +157,7 @@ export default function Home() {
       num: "04", title: "Portfolio Website", sub: "Personal Brand Site",
       tech: ["HTML", "CSS", "JavaScript"],
       desc: "Responsive personal portfolio showcasing projects and skills. Mobile-first responsive design deployed on Netlify.",
-      github: "https://github.com/DeepakGir",
+      github: "https://github.com/DeepakGir/Deepak-Portfolio.git",
       grad: "from-orange-600 to-amber-500"
     },
   ];
