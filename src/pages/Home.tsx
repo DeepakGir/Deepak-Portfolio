@@ -1,5 +1,5 @@
 import { useState, useEffect, useRef } from "react";
-import { motion, useInView, AnimatePresence } from "framer-motion";
+import { motion, useInView, AnimatePresence, Variants } from "framer-motion";
 import { SiGithub } from "react-icons/si";
 import {
   Mail, Phone, MapPin, ExternalLink, Download,
@@ -10,7 +10,7 @@ import {
 import { Button } from "@/components/ui/button";
 
 /* ── animation variants ── */
-const fadeUp = {
+const fadeUp: Variants = {
   hidden: { y: 32, opacity: 0 },
   visible: (i = 0) => ({
     y: 0, opacity: 1,
