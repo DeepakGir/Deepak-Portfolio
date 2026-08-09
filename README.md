@@ -4,7 +4,7 @@ A modern, responsive portfolio website built with **React**, **TypeScript**, **V
 
 🌐 **Live Demo:** https://deepakgirportfolio.netlify.app/
 
-![Portfolio Preview](public/opengraph.ppg)
+![Portfolio Preview](public/portfolio-preview.png)
 ---
 
 ## 📖 About
